@@ -13,7 +13,7 @@ Samalang adalah bahasa pemograman yang di buat mengunakan python,Samalang mudah 
 
 <img src="contoh if statement di samalang.png" height="540" width="540" alt="contoh1">
 <br>
-<img src="conton print di samalang.png" alt="contoh2">
+<img src="conton print di samalang.png" height="540" width="540" alt="contoh2">
 
 ini adalah beberapa contoh syntax di samalang
 ## Cara megunakan samalang
