@@ -19,8 +19,9 @@ ini adalah beberapa contoh syntax di samalang
 ## Cara megunakan samalang
 kalian terlebih dahulu mengclone repo ini dengan perintah di bawah ini
 ```
-git clone 
-
+git clone https://github.com/Rzfan03/samawa_languange.git
+```
+lalu kalian membuat file dengan ektensi .samawa seperti contoh.samawa
 gunakan perintah seperti ini untuk menjalankan file nya
 
 ```bash
