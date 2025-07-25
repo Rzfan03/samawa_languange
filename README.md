@@ -11,9 +11,9 @@ Samalang adalah bahasa pemograman yang di buat mengunakan python,Samalang mudah 
 
 ## Contoh syntax
 
-![Contoh 1](contohifstatementdisamalang.png)
-
-![Contoh 2](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="contoh if statement di samalang.png" alt="contoh1">
+<br>
+<img src="contoh print di samalang.png" alt="contoh2">
 
 ini adalah beberapa contoh syntax di samalang
 ## Cara megunakan samalang
