@@ -1,0 +1,2 @@
+var nama = "rzfann"
+cetak(nama)

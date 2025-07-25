@@ -1,0 +1,7 @@
+var umur = 17;
+
+lamen (umur >= 17) {
+    cetak("Anda boleh membuat SIM");
+} lain {
+    cetak("Anda belum cukup umur");
+}
