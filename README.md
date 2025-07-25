@@ -13,12 +13,13 @@ Samalang adalah bahasa pemograman yang di buat mengunakan python,Samalang mudah 
 
 <img src="contoh if statement di samalang.png" alt="contoh1">
 <br>
-<img src="contoh print di samalang.png" alt="contoh2">
+<img src="conton print di samalang.png" alt="contoh2">
 
 ini adalah beberapa contoh syntax di samalang
 ## Cara megunakan samalang
-
-kalian bisa terlebih dahulu membuat file dengan ektensi .samawa seperti contoh.samawa 
+kalian terlebih dahulu mengclone repo ini dengan perintah di bawah ini
+```
+git clone 
 
 gunakan perintah seperti ini untuk menjalankan file nya
 
